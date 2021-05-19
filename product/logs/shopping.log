@@ -1,0 +1,7 @@
+[SQL_LOG:2021-04-11 15:12:22]:SELECTusername, passwordFROMaccountWHEREusername = NaraMoon[]
+[SQL_LOG:2021-04-11 15:55:01]:INSERT INTOaccount(username,password) VALUES (?,?)[NaraMoon,$2y$10$lLPQWSg8qzp49bfI7XRyROXSwi.YtyImmFFPVZXNXBAOZu8HNj4gO]
+[SQL_LOG:2021-04-11 17:29:20]:INSERT INTOaccount(username,password) VALUES ()[NaraMoon,$2y$10$hlOUpeRscdGIwVDOEgk1peX87kW8MnMA79R7rfnnYjvtMU79Giqim]
+[SQL_LOG:2021-04-11 17:29:44]:INSERT INTOaccount(username,password) VALUES (?,?)[NaraMoon,$2y$10$iyCekaV2EiGbmo9fYVI2puq/ZOJxjShflri8JqKHFtH0hu7UAnomG]
+[SQL_LOG:2021-04-11 17:39:33]:INSERT INTOaccount(username,password) VALUES (?,?)[NaraMoon,$2y$10$DjbvPjFgLVFNWi3wRiUzBevfZrkfz6aM1xM421DHfpolqITGPsprq]
+[SQL_LOG:2021-04-18 18:26:13]:INSERT INTOaccount(0,1) VALUES (?,?)[NaraMoon,$2y$10$z.90vAbS7DDp5Ov2E.4Ib.nRABHCe9xbqYox0HYnh9BToTSC2UI36]
+[SQL_LOG:2021-04-20 20:30:52]:INSERT INTOaccount(username, password) VALUES ()[]
